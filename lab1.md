@@ -8,4 +8,4 @@
 * Example 2: When ls(list) without an argument, it means to list items under the main/highest level of the directory.
 * Example 3: When cat(concatenate) without an argument, it means concatenating 0 files, which the terminal awaits file input.
 
-![Image](https://rxwy.github.io/cse15l-lab-reports/ls.png)
+![Image](https://rxwy.github.io/cse15l-lab-reports/cd.png)
