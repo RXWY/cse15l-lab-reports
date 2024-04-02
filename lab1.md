@@ -13,8 +13,8 @@ The absolute path for the following commands is **/c/Users/gaoch/lecture1**\
 ![Image](https://rxwy.github.io/cse15l-lab-reports/ls.png)
 > **Description**
 * As mentioned earlier, *"When ls(list) without an argument, it means to list items under the main/highest level of the directory."*
-* When ls is used with a directory, it outputs every file under that directory.
-* When ls is used with a file name, it returns the filename, indicating that there is only one file(itself) under that name. 
+* When ls is used with a directory **(ls messages/)**, it outputs every file under that directory.
+* When ls is used with a file name **(ls Hello.java)**, it returns the filename, indicating that there is only one file(itself) under that name. 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/cd.png)
 
