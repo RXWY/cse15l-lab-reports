@@ -1,5 +1,5 @@
 # Lab Report 1
-**The absolute path for the following commands is /c/Users/gaoch/lecture1**
+'**The absolute path for the following commands is /c/Users/gaoch/lecture1**'
 *The image below demonstrates what will happen when cd/ls/cat are used without arguments*
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/woarg.png)
