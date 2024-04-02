@@ -7,4 +7,5 @@
 * Example 1: When cd(change directory) without an argument, that means not changing to any directory or the same directory.
 * Example 2: When ls(list) without an argument, it means to list items under the main/highest level of the directory.
 * Example 3: When cat(concatenate) without an argument, it means concatenating 0 files, which the terminal awaits file input.
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/ls.png)
