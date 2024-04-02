@@ -2,7 +2,7 @@
 *The image below demonstrates what will happen when cd/ls/cat are used without arguments*
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/woarg.png)
-![Image](https://rxwy.github.io/cse15l-lab-reports/woarg.png)
+![Image](https://rxwy.github.io/cse15l-lab-reports/cd1.png)
 
 > **Description**
 * Example 1: When cd(change directory) without an argument, that means not changing to any directory or the same directory.
