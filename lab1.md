@@ -5,6 +5,7 @@ The absolute path for the following commands is **/c/Users/gaoch/lecture1**\
 ![Image](https://rxwy.github.io/cse15l-lab-reports/woarg.png)
 
 > Comment: When cat was run w/o arguments, the terminal stops executing any other code.
+
 > **Description**
 * Example 1: When cd(change directory) without an argument, that means not changing to any directory or the same directory.
 * Example 2: When ls(list) without an argument, it means to list items under the main/highest level of the directory.
