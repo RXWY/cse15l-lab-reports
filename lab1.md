@@ -11,7 +11,7 @@ The absolute path for the following commands is **/c/Users/gaoch/lecture1**\
 * Example 2: When ls(list) without an argument, it means to list items under the main/highest level of the directory.
 * Example 3: When cat(concatenate) without an argument, it means concatenating 0 files, which the terminal awaits file input.
 
-![Image](https://rxwy.github.io/cse15l-lab-reports/cd.png)
+![Image](https://rxwy.github.io/cse15l-lab-reports/cdnew.png)
 > **Description**
 * As mentioned earlier, *"When cd(change directory) without an argument, it returns to the broadest directory on local machine."*
 * When cd is used with a directory **(cd lecture1)**, the terminal updates the directory specified.
