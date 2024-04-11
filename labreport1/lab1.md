@@ -26,7 +26,7 @@
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport1/img/cat.png)
 > **Description**
-> Comment: When cat was run w/o arguments, the terminal stops executing any other code.
+* Comment: When cat was run w/o arguments, the terminal stops executing any other code.
 * The absolute path before the following command is **/c/Users/gaoch/lecture1**
 * When cat(concatenate) without an argument, the system is not reading anything; it generates an error, which the terminal awaits file input, concatenating 0 files.
 * The absolute path before the following command is **/c/Users/gaoch/lecture1**
