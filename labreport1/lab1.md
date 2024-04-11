@@ -27,8 +27,9 @@
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport1/img/cat.png)
 > **Description**
 > Comment: When cat was run w/o arguments, the terminal stops executing any other code.
-
-* When cat(concatenate) without an argument, it generates an error, which the terminal awaits file input, concatenating 0 files.
-* When cat is used with a directory **(cat lecture1)**, the terminal updates the directory specified.
-* When cat is used with a file name **(cat Hello.class)**, the terminal returns an error since the object that is being changed to is not a directory.
-  
+* The absolute path before the following command is **/c/Users/gaoch/lecture1**
+* When cat(concatenate) without an argument, the system is not reading anything; it generates an error, which the terminal awaits file input, concatenating 0 files.
+* The absolute path before the following command is **/c/Users/gaoch/lecture1**
+* When cat is used with a directory **(cat messages/)**, it tries to read a directory which is not possible, which means it generates an error, `cat: messages/: Is a directory`
+* The absolute path before the following command is **/c/Users/gaoch/lecture1**
+* When cat is used with a file name **(cat Hello.class)**, the terminal returns what it read and the output of the file.
