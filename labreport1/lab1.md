@@ -5,12 +5,13 @@
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport1/img/cd.png)
 > **Description**
-** The absolute path before the following commands is **/c/Users/gaoch**
+
 * When cd(change directory) without an argument, it returns to the broadest directory on local machine.\
 ** The absolute path for the following commands is **/c/Users/gaoch**
 * When cd is used with a directory **(cd lecture1)**, the terminal updates the directory specified.\
 ** The absolute path for the following commands is **/c/Users/gaoch/lecture1**
 * When cd is used with a file name **(cd Hello.class)**, the terminal returns an error since the object that is being changed to is not a directory.\
+** The absolute path before the following commands is **/c/Users/gaoch**
 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport1/img/ls.png)
