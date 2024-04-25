@@ -19,9 +19,9 @@
 > **Description**
 * The absolute path before the following command is `/c/Users/gaoch/lecture1`
 * When `ls`(list) without an argument, it means to list items under the main/highest level of the directory.
-* The absolute path before the following command is `/c/Users/gaoch/lecture1`;
+* The absolute path before the following command is `/c/Users/gaoch/lecture1`
 * When `ls` is used with a directory `(ls messages/)`, it outputs every file under that directory.
-* The absolute path before the following command is `/c/Users/gaoch/lecture1`**
+* The absolute path before the following command is `/c/Users/gaoch/lecture1`
 * When `ls` is used with a file name `(ls Hello.java)`, it returns the filename, indicating that there is only one file(itself) under that name. 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport1/img/cat.png)
