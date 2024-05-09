@@ -1,5 +1,6 @@
 # Part 1
 * ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport2/img/img.png)
+* ![image](labreport2/img/Screenshot 2024-05-08 235522.png)
 # Part 2
 * Screenshot of local ls
 * ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport2/img/lslocal.png)
