@@ -1,6 +1,7 @@
 # Part 1
 * ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport2/img/img.png)
 * ![image](labreport2/img/35522.png)
+* The method used are URLhandler and text write.
 # Part 2
 * Screenshot of local ls
 * ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport2/img/lslocal.png)
