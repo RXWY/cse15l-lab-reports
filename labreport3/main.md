@@ -45,7 +45,11 @@ The original code basically returns the original list input. While the revised c
 the array in reverse sorted order, which have been through the for loop to sort the list in reverse order.
 ```
 # Part 2
-1. W \
+1. I found ```less -v``` quite interesting, first of all, it works depending on the system environment, 
+some would think it is ```-V``` Which displays the current version of the command, but this command would allow you to open an editor for the current file instead. \
 [Work Cited](https://man7.org/linux/man-pages/man1/less.1.html)
-
+2. ```-B``` is another interesting command, it is the switch for the auto buffer(space allowance) for a file,
+and by called up this command, under default conditions, it will disable auto buffering(space filling) and
+instead saving some memory allocation to the file as there are less space chars to display. However it will
+result in distortion in text or a "text image".
 
