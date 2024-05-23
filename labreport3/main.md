@@ -16,6 +16,7 @@
     	assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
-3. ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport3/1.png)
+3. Error message: The symptom demonstrating one test have passed but another isn't.
+![Image](https://rxwy.github.io/cse15l-lab-reports/labreport3/1.png)
    
 # Part 2
