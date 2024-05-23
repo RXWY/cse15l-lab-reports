@@ -39,7 +39,7 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
-5. Explanation
+5. Explanation: \
 The original code basically returns the original list input. While the revised code would be able to return
 the array in reverse sorted order, which have been through the for loop to sort the list in reverse order.
 # Part 2
