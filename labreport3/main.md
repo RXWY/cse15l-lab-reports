@@ -1,5 +1,5 @@
 # Part 1
-A failure-inducing input for ArrayExamples, JUnit Test -> ArrayTests
+1. A failure-inducing input for ArrayExamples, JUnit Test -> ArrayTests
 ```
  @Test
   public void testReversed() {
@@ -7,7 +7,7 @@ A failure-inducing input for ArrayExamples, JUnit Test -> ArrayTests
     assertArrayEquals(new int[]{ 4, 2, 1 }, ArrayExamples.reversed(input1));
   }
 ```
-An input that doesn't induce a failure for ArrayExamples, JUnit Test -> ArrayTests
+2. An input that doesn't induce a failure for ArrayExamples, JUnit Test -> ArrayTests
 ```
   @Test 
     public void testReverseInPlace() {
@@ -16,4 +16,6 @@ An input that doesn't induce a failure for ArrayExamples, JUnit Test -> ArrayTes
     	assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
+3. d
+   
 # Part 2
