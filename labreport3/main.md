@@ -45,5 +45,10 @@ The original code basically returns the original list input. While the revised c
 the array in reverse sorted order, which have been through the for loop to sort the list in reverse order.
 ```
 # Part 2
+1. W
+2. Work Cited: ![Link](https://man7.org/linux/man-pages/man1/less.1.html)
+3. w
+4. w
+5. w
 
 
