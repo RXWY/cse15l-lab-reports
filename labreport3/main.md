@@ -18,5 +18,14 @@
 ```
 3. Error message: The symptom demonstrating one test have passed but another isn't.
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport3/1.png)
-   
+4. The segment where the bug is at.
+```
+static int[] reversed(int[] arr) {
+    int[] newArray = new int[arr.length];
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = newArray[arr.length - i - 1];
+    }
+    return arr;
+  }
+```
 # Part 2
