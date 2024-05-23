@@ -16,6 +16,6 @@
     	assertArrayEquals(new int[]{ 3 }, input1);
 	}
 ```
-3. d
+3. ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport3/1.png)
    
 # Part 2
