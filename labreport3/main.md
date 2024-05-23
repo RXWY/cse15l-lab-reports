@@ -56,3 +56,5 @@ result in distortion in text or a "text image". \
 3. ```less -d``` does a very abstract behavior on error messages, specifically on dumb terminals, it limits error messages from displaying, a dumb terminal is a terminal that returns errors in its original forms without any explanation or encodings. \
 [Work Cited 1](https://en.wikipedia.org/wiki/Computer_terminal)
 [Work Cited 2](https://man7.org/linux/man-pages/man1/less.1.html)
+4. ```less ?pattern``` is a search function for patterns in a file, it have different options associated with it such as searching forward, multiple files or by lines.
+[Work Cited](https://man7.org/linux/man-pages/man1/less.1.html)
