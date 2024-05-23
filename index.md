@@ -3,3 +3,5 @@
 * Remote Access and FileSystem: `cd, ls, cat`
   
 ## [Link to Lab 2](https://rxwy.github.io/cse15l-lab-reports/labreport2/lab2.html)
+
+## [Link to Lab 3](https://rxwy.github.io/cse15l-lab-reports/labreport3/main.html)
