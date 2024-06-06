@@ -10,7 +10,7 @@ Student's reply:
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/student.PNG)
 
 
-# Part 2
+# Part 2 - Some Words of My Experience
 
 My experience:
 > Thank you for providing an amazing quarter of CSE15L! I have learned so much about the techniques in debugging(JUnit!) and file management, from the basics like creating files and locating paths using bash to understanding a directory/file structure. In fact, I learned even more in the 2nd half of this class, such as VIM; I find it so cool because of how it could run smoothly on a terminal text box and experience compiling codes in an old-fashioned and without modern, super graphical clients. I also found out that my classmates have quite diverse computer science background and journey, some learning for software engineering, some for bioinformatics, and some for AI... 
