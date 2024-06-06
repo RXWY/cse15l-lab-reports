@@ -11,21 +11,27 @@ Keys pressed: <up><up><up><up><enter>, <up><up><up><up><enter> The javac -cp .:l
 
 Add this lab report to your Github Pages site, and submit a PDF of it as usual.
 * Step 4
+  
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot1.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
 * Step 5
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
 * Step 6
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
 * Step 7
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot7.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
 * Step 8
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot8.png)
 * Step 9
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot9.png)
 
