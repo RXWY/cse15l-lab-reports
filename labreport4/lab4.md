@@ -23,7 +23,7 @@ Keys pressed:
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
 
-> ```cat /home/linux/ieng6/oce/69/769/c9gao/.ssh/id_rsa.pub <enter> <Ctrl+C>``` extracted the ssh authentification. 
+> ```cat /home/linux/ieng6/oce/69/769/c9gao/.ssh/id_rsa.pub <enter> <Ctrl+C>``` extracted the ssh authentication and then copy and paste it to the github site to set up personal SSH, then use that to clone lab7. 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
 * Step 5 Clone your fork of the repository from your Github account (using the SSH URL)
