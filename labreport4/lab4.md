@@ -9,29 +9,34 @@ For example, when you run the tests, you might want to use the up arrow or Ctrl-
 
 Keys pressed: <up><up><up><up><enter>, <up><up><up><up><enter> The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 4 up in the search history, so I used up arrow to access it. Then the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ... command was 4 up in the history, so I accessed and ran it in the same way.
 
+
+
+
+
+Commit and push the resulting change to your Github account (you can pick any commit message!)
 Add this lab report to your Github Pages site, and submit a PDF of it as usual.
-* Step 4
+* Step 4 Log into ieng6
   
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot1.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
-* Step 5
+* Step 5 Clone your fork of the repository from your Github account (using the SSH URL)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
-* Step 6
+* Step 6 Run the tests, demonstrating that they fail
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
-* Step 7
+* Step 7 Edit the code file to fix the failing test
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot7.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
-* Step 8
+* Step 8 Run the tests, demonstrating that they now succeed
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot8.png)
-* Step 9
+* Step 9 Commit and push the resulting change to your Github account
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot9.png)
 
