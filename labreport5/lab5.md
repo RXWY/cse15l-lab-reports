@@ -3,7 +3,7 @@
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzapost.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzascreen.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzadesc.PNG)
-![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzasolu.PNG)
+![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzasolu2.PNG)
 
 
 
