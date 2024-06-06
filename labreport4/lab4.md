@@ -39,7 +39,7 @@ Keys pressed:
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
 
 * Step 7 Edit the code file to fix the failing test
-
+> ```vim <down><down><down><enter> <up><up><up><up><up><up><up><up><up><up><up><x><x> <down><down><down><down><down><down><down><down><down><down><down><down><x><i> <:wq>``` By doing this I fixed all the errors in the code.
 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
