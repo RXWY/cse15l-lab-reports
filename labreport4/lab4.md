@@ -16,9 +16,11 @@ Add this lab report to your Github Pages site, and submit a PDF of it as usual.
 Keys pressed:
 > ```ssh c9gaoWieng6.ucsd.edu <enter>``` to log in to my account.
 
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot1.png)
 
 > ```ssh-keygen <enter?``` to generate a key for SSH cloning of lab7
+
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
 
 > ```cat /home/linux/ieng6/oce/69/769/c9gao/.ssh/id_rsa.pub <enter> <Ctrl+C>``` extracted the ssh authentification. 
