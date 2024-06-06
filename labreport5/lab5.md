@@ -5,18 +5,9 @@
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzadesc.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzasolu2.PNG)
 Student's reply:
-> Thank you! I noticed that the file is located in a different directory under the parent directory. I also recalled that in order to run a java class file with a designated path, I should use ```java -cp```! After going to the parent directory(It is where the textfile directory is located under!) by using the command ```cd ../``` I attempted to run Code class with its path as shown in the screenshot, and it worked! The bug was triggered by ```java Code textfile/novels/Koko.txt``` as the machine failed to find the path under the current directory, and I solved it by first change directory to it's parent directory and then run the Code class using -cp (As shown in the screenshot below)
+> Thank you! I noticed that the file is located in a different directory under the parent directory. I also recalled that in order to run a java class file with a designated path, I should use ```java -cp```! After going to the parent directory(It is where the textfile directory is located under!) by using the command ```cd ../``` I attempted to run Code class with its path as shown in the screenshot, and it worked! The bug was a display of ```The file does not exist :(```despite the file exists under the directory ```textfile/novels/Kobo.txt```. The code triggered such bug is ```java Code textfile/novels/Koko.txt``` the machine failed to find the path under the current directory, and I solved it by first change directory to it's parent directory and then run the Code class using -cp (As shown in the screenshot below), the Code.java file was unchanged as it works properly before and after debugging! 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/student.PNG)
-
-
-Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
-At the end, all the information needed about the setup including:
-The file & directory structure needed
-The contents of each file before fixing the bug
-The full command line (or lines) you ran to trigger the bug
-A description of what to edit to fix the bug
-You should actually set up and run the scenario from your screenshots. It should involve at least a Java file and a bash script. Describing the bug should involve reading some output at the terminal resulting from running one or more commands. Design an error that produces more interesting output than a single message about a syntax or unbound identifier error – showcase some interesting wrong behavior! Feel free to set this up by cloning and breaking some existing code like the grading script or code from class, or by designing something of your own from scratch, etc.
 
 
 # Part 2
