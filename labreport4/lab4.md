@@ -20,12 +20,13 @@ Add this lab report to your Github Pages site, and submit a PDF of it as usual.
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot1.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
-* Step 5 Clone your fork of the repository from your Github account (using the SSH URL)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
-* Step 6 Run the tests, demonstrating that they fail
+* Step 5 Clone your fork of the repository from your Github account (using the SSH URL)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
+
+* Step 6 Run the tests, demonstrating that they fail
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
 * Step 7 Edit the code file to fix the failing test
