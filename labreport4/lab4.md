@@ -10,21 +10,22 @@ For example, when you run the tests, you might want to use the up arrow or Ctrl-
 Keys pressed: <up><up><up><up><enter>, <up><up><up><up><enter> The javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java command was 4 up in the search history, so I used up arrow to access it. Then the java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ... command was 4 up in the history, so I accessed and ran it in the same way.
 
 Add this lab report to your Github Pages site, and submit a PDF of it as usual.
+* Step 4
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot1.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot2.png)
-
+* Step 5
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
-
+* Step 6
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
-
+* Step 7
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot7.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
-
+* Step 8
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot8.png)
-
+* Step 9
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot9.png)
 
