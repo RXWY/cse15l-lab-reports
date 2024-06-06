@@ -32,6 +32,7 @@ Keys pressed:
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
 * Step 6 Run the tests, demonstrating that they fail
+> ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter> java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExampleTests <enter>``` Compile the entire 
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
 * Step 7 Edit the code file to fix the failing test
