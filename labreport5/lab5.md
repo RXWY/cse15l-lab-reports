@@ -9,7 +9,7 @@ Student's reply:
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/student.PNG)
 
-> That was not an actual Piazza post but rather a simulated conversation between student(Myself) and TA(Myself).
+> That was not an actual Piazza post but rather a simulated conversation between "a student" and "a TA".
 
 # Part 2 - Some Words of My Experience
 
