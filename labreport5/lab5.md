@@ -3,7 +3,6 @@ Design a debugging scenario, and write your report as a conversation on Piazza (
 # Part 1
 * ![Image](https://rxwy.github.io/labreport5/img/errorcode.PNG)
 * ![Image](https://rxwy.github.io/labreport5/img/piazzapost.PNG)
-
 The original post from a student with a screenshot showing a symptom and a description of a guess at the bug/some sense of what the failure-inducing input is. (Don't actually make the post! Just write the content that would go in such a post)
 A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
 Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
