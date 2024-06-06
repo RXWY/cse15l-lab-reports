@@ -12,4 +12,5 @@ Student's reply:
 
 # Part 2
 
-In a couple of sentences, describe something you learned from your lab experience in the second half of this quarter that you didn't know before. It could be a technical topic we addressed specifically, something cool you found out on your own building on labs, something you learned from a tutor or classmate, and so on. It doesn't have to be specifically related to a lab writeup, we just want to hear about cool things you learned!
+My experience:
+> Thank you for providing an amazing quarter of CSE15L! I have learned so much about the techniques in debugging(JUnit!) and file management, from the basics like creating files and locating paths using bash to understanding a directory/file structure. In fact, I learned even more in the 2nd half of this class, such as VIM; I find it so cool because of how it could run smoothly on a terminal text box and experience compiling codes in an old-fashioned and without modern, super graphical clients. I also found out that my classmates have quite diverse computer science background and journey, some learning for software engineering, some for bioinformatics, and some for AI... 
