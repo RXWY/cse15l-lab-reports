@@ -27,6 +27,7 @@ Keys pressed:
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot3.png)
 * Step 5 Clone your fork of the repository from your Github account (using the SSH URL)
+> ```<Ctrl+V> <enter>``` cloned by github SSH using c+v.
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
