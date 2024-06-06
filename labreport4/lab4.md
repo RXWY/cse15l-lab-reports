@@ -11,3 +11,4 @@ Keys pressed: <up><up><up><up><enter>, <up><up><up><up><enter> The javac -cp .:l
 
 Add this lab report to your Github Pages site, and submit a PDF of it as usual.
 
+labreport4/img/Screenshot1.png
