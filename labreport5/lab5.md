@@ -1,5 +1,4 @@
-Part 1 – A Debugging Scenario
-Design a debugging scenario, and write your report as a conversation on Piazza (you don't need to make a post). It should have:
+
 # Part 1 - A Debugging Scenario
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzapost.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzascreen.PNG)
