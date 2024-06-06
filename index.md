@@ -5,3 +5,5 @@
 ## [Link to Lab 2](https://rxwy.github.io/cse15l-lab-reports/labreport2/lab2.html)
 
 ## [Link to Lab 3](https://rxwy.github.io/cse15l-lab-reports/labreport3/main.html)
+## [Link to Lab 4](https://rxwy.github.io/cse15l-lab-reports/labreport3/lab4.html)
+## [Link to Lab 5](https://rxwy.github.io/cse15l-lab-reports/labreport3/lab5.html)
