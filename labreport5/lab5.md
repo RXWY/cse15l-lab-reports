@@ -1,7 +1,5 @@
 
 # Part 1 - A Debugging Scenario
-> This is not an actual Piazza post but rather a simulated conversation.
-
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzapost.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzascreen.PNG)
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/piazzadesc.PNG)
@@ -11,6 +9,7 @@ Student's reply:
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport5/img/student.PNG)
 
+> That was not an actual Piazza post but rather a simulated conversation between student(Myself) and TA(Myself).
 
 # Part 2 - Some Words of My Experience
 
