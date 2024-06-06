@@ -18,11 +18,11 @@ Add this lab report to your Github Pages site, and submit a PDF of it as usual.
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot4.png)
 
-![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
-
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot6.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot7.png)
+
+![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot5.png)
 
 ![Image](https://rxwy.github.io/cse15l-lab-reports/labreport4/img/Screenshot8.png)
 
